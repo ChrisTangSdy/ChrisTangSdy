@@ -20,7 +20,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/chris-tang-syd/" target="blank"><img align="center" src="https://img.shields.io/badge/-christang-green?style=for-the-badge&logo=linkedin" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:christang@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-christang-green?style=for-the-badge&logo=gmail" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/ChrisTangSdy" target="blank"><img align="center" src="https://img.shields.io/badge/-christang-green?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/chris-tang-syd/" target="blank"><img align="center" src="https://img.shields.io/badge/-christang-0077B5?style=for-the-badge&logo=linkedin" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:christang@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-christang-D14836?style=for-the-badge&logo=gmail" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/ChrisTangSdy" target="blank"><img align="center" src="https://img.shields.io/badge/-christang-100000?style=for-the-badge&logo=github" /></a>
 </p>
   
 <Br>
@@ -29,9 +29,9 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/frontend-CSS-green?style=for-the-badge)|![](https://img.shields.io/badge/frontend-HTML-green?style=for-the-badge)|![](https://img.shields.io/badge/frontend-React-green?style=for-the-badge)|![](https://img.shields.io/badge/frontend-Redux-green?style=for-the-badge)|![](https://img.shields.io/badge/frontend-Javascript-green?style=for-the-badge)|
+|![](https://img.shields.io/badge/-CSS-green?style=for-the-badge)|![](https://img.shields.io/badge/frontend-HTML-green?style=for-the-badge)|![](https://img.shields.io/badge/-React-green?style=for-the-badge)|![](https://img.shields.io/badge/-Redux-green?style=for-the-badge)|![](https://img.shields.io/badge/-Javascript-green?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Node%20.js-blue?style=for-the-badge)|![](https://img.shields.io/badge/Mongodb-blue?style=for-the-badge)|![](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)|![](https://img.shields.io/badge/Python-blue?style=for-the-badge)|![](https://img.shields.io/badge/Javascript!-yellow?style=for-the-badge)|
 
 
 
