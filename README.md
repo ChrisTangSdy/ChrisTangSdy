@@ -10,9 +10,9 @@
 
 - 🏫: I'm a junior frontend/backend/full-stack developer.
 - 🔭: I’m currently working on DevForum.
-- 🌱: I’m currently learning Angular and Java. 🧠💻🤖
+- 🌱: I’m currently learning Angular and Java. 💻🤖
 - 😄: I’m looking for more opportunities to grow! 😄
-- 💬: Ask me about Web Development. 📊📈🤖🧠
+- 💬: Ask me about Web Development. 
 - 😄  Pronouns: He/His
   
 <hr>
@@ -32,7 +32,7 @@
 
 |![](https://img.shields.io/badge/frontend-CSS-green?style=for-the-badge)|![](https://img.shields.io/badge/Frontend-HTML-green?style=for-the-badge)|![](https://img.shields.io/badge/Frontend-React-green?style=for-the-badge)|![](https://img.shields.io/badge/Frontend-Redux-green?style=for-the-badge)|![](https://img.shields.io/badge/Forntend-Javascript-green?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Node%20.js-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Mongodb-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-PostgreSQL-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Python-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Javascript!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Backend-Node.js-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Mongodb-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-PostgreSQL-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Python-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Javascript!-yellow?style=for-the-badge)|
  
 
 
