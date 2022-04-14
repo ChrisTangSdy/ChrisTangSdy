@@ -29,7 +29,7 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/-CSS-green?style=for-the-badge)|![](https://img.shields.io/badge/frontend-HTML-green?style=for-the-badge)|![](https://img.shields.io/badge/-React-green?style=for-the-badge)|![](https://img.shields.io/badge/-Redux-green?style=for-the-badge)|![](https://img.shields.io/badge/-Javascript-green?style=for-the-badge)|
+|![](https://img.shields.io/badge/-CSS-green?style=for-the-badge)|![](https://img.shields.io/badge/HTML-green?style=for-the-badge)|![](https://img.shields.io/badge/-React-green?style=for-the-badge)|![](https://img.shields.io/badge/-Redux-green?style=for-the-badge)|![](https://img.shields.io/badge/-Javascript-green?style=for-the-badge)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/Node%20.js-blue?style=for-the-badge)|![](https://img.shields.io/badge/Mongodb-blue?style=for-the-badge)|![](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)|![](https://img.shields.io/badge/Python-blue?style=for-the-badge)|![](https://img.shields.io/badge/Javascript!-yellow?style=for-the-badge)|
 
