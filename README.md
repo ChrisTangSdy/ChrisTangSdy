@@ -32,7 +32,7 @@
 
 |![](https://img.shields.io/badge/frontend-CSS-green?style=for-the-badge)|![](https://img.shields.io/badge/Frontend-HTML-green?style=for-the-badge)|![](https://img.shields.io/badge/Frontend-React-green?style=for-the-badge)|![](https://img.shields.io/badge/Frontend-Redux-green?style=for-the-badge)|![](https://img.shields.io/badge/Forntend-Javascript-green?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Backend-Node.js-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Mongodb-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-PostgreSQL-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Python-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Javascript!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Backend-Node.js-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Mongodb-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-PostgreSQL-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Python-blue?style=for-the-badge)|![](https://img.shields.io/badge/Backend-Javascript-blue?style=for-the-badge)|
  
 
 
