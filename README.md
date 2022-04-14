@@ -11,7 +11,7 @@
 - 🏫: I'm a junior frontend/backend/full-stack developer.
 - 🔭: I’m currently working on DevForum.
 - 🌱: I’m currently learning Angular and Java. 🧠💻🤖
-- 🤔: I’m looking for more opportunities to grow! 😅
+- 😄: I’m looking for more opportunities to grow! 😄
 - 💬: Ask me about Web Development. 📊📈🤖🧠
 - 😄  Pronouns: He/His
   
@@ -20,7 +20,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/chris-tang-syd/" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:christang@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/ChrisTangSdy" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chris-tang-syd/" target="blank"><img align="center" src="https://img.shields.io/badge/ChrisTang?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:christang@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ChrisTang?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/ChrisTangSdy" target="blank"><img align="center" src="https://img.shields.io/badge/ChrisTangSdy?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
