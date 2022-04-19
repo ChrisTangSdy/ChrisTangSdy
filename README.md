@@ -3,7 +3,7 @@
 <meta name="og:image" content="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.searchenginejournal.com%2Fsocial-media-image-sizes-guide%2F353552%2F&psig=AOvVaw0bwEF8fxZhzdegpOCmnVMR&ust=1650457465044000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLilqKmPoPcCFQAAAAAdAAAAABAD"/>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.searchenginejournal.com%2Fsocial-media-image-sizes-guide%2F353552%2F&psig=AOvVaw0bwEF8fxZhzdegpOCmnVMR&ust=1650457465044000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLilqKmPoPcCFQAAAAAdAAAAABAD" height="230"/>
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/ChrisTangSdy">Chris Tang<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
