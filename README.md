@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<meta name="og:image" content="http://ia.media-imdb.com/rock.jpg"/>
+<meta name="og:image" content="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.searchenginejournal.com%2Fsocial-media-image-sizes-guide%2F353552%2F&psig=AOvVaw0bwEF8fxZhzdegpOCmnVMR&ust=1650457465044000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLilqKmPoPcCFQAAAAAdAAAAABAD"/>
 
 <p align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.searchenginejournal.com%2Fsocial-media-image-sizes-guide%2F353552%2F&psig=AOvVaw0bwEF8fxZhzdegpOCmnVMR&ust=1650457465044000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLilqKmPoPcCFQAAAAAdAAAAABAD" height="230"/>
